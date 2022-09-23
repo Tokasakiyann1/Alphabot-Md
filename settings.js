@@ -26,12 +26,12 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "YANN BOTZ" //namabot kalian
-global.ownername= "TOKASAKI YANN" //nama kalian
+global.botname = "Dexy bot" //namabot kalian
+global.ownername= "dexyy" //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/ZeeoneOfc" //bebas asal jan hapus
 global.myweb2 = "https://linktr.ee/zeeoneofc" //bebas
-global.email = "YANN BANG TOYIB@gmail.com" //bebas
+global.email = "Dexy kontol@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6285657043989'] //premium user
@@ -42,8 +42,8 @@ global.thumbnail = "./Proyek Baru 8 [9A917D0].png" // ini lol.jpg adalah nama fo
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© YANN MD' //sticker wm ubah
-global.author = 'Di Buat Oleh TOKASAKI YANN' //sticker wm ganti nama kalian
+global.packname = '© dexy bot' //sticker wm ubah
+global.author = 'Di Buat Oleh Dexyy' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
